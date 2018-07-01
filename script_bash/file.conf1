@@ -1,0 +1,40 @@
+DirName=/tmp/chatty/primo g
+    DirName=/tmp/chatty/secondo
+DirName=/tmp/chatty/terzo   
+AAA       DirName  =    /tmp/chatty/quarto BBB
+
+DirName!=/tmp/chatty/not_allowed
+DirName= /tmp/chatty/quinto
+DirName = /tmp/chatty/sesto /tmp/chatty/not_allowed
+
+Dir Name = /tmp/chatty/not_allowed 
+
+Dirname=/tmp/chatty/not_allowed
+
+DirName="/tmp/chatty/new folder"
+
+DirName="/tmp/chatty/new folder2" abc
+
+DirName = "PATH GIUSTO"aaa "bbb" "" ccc "ddd" eee fff
+
+DirName="""a""b"c"d"
+
+DirName="a""""b"c"d"
+
+DirName="~/nuova cartella"
+
+DirName=/tmp "/aaa//bbb"
+
+DirName= "/tmp" aaa bbbb "ccc"
+
+/tmp/chatty DirName      =      ""
+
+DirName = DirName = DirName = /tmp/last
+
+AAA DirName=   "///aaaa"bbbb
+
+BBB DirName=   bbbb"///aaaa"
+
+"/"tmpDirName=/cccc
+
+"A B"DirName        = "Nuova cartella 2"cc "d"
