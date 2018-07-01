@@ -1,4 +1,4 @@
-Script bash  
+# Script Bash
 Deve essere realizzato uno script bash che prende in input come argomenti il file di  
 configurazione del server chatterbox ed un numero intero positivo (t).   
 Lo script estrae il nome della directory associato all’opzione DirName dal file passato come  
